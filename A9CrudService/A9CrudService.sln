@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A9CrudService", "A9CrudService.csproj", "{C41769E0-64A8-4F49-8E62-E0BE5A7EADC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41769E0-64A8-4F49-8E62-E0BE5A7EADC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41769E0-64A8-4F49-8E62-E0BE5A7EADC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41769E0-64A8-4F49-8E62-E0BE5A7EADC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41769E0-64A8-4F49-8E62-E0BE5A7EADC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE702E9-5C13-4350-8540-7EBE8E54D300}
+	EndGlobalSection
+EndGlobal
